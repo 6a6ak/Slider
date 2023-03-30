@@ -1,2 +1,2 @@
 # Slider
-Make a digital fram with raspberry pie
+Make a digital photo frame for raspberry pie
